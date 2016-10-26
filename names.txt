@@ -1,2 +1,6 @@
 george
+<<<<<<< HEAD
 dewayne
+=======
+Waqas
+>>>>>>> 706ddcf30ffb68dec1022a490ba2edc4b019c3fc
